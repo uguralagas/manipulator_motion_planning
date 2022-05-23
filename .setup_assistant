@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: four_dof_manipulator
+    relative_path: urdf/four_dof_manipulator.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/four_dof_manipulator.srdf
+  CONFIG:
+    author_name: Ali Aydın Küçükçöllü
+    author_email: kucukcollu@outlook.com
+    generated_timestamp: 1622837493
